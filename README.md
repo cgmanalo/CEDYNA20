@@ -1,2 +1,2 @@
-# CEDYNA20-BSCE241A
-Student scores for CEDYNA20-BSCE241A
+# CEDYNA20
+Student scores for CEDYNA20
